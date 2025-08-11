@@ -10,12 +10,14 @@ The goal is to classify tumors as **malignant** or **benign** based on diagnosti
 ---
 
 ## What is done 
-1.Loading of a binary classification dataset.
-2.Train/test split and standardization of features.
-3.Fitting a Logistic Regression model.
-4.Evaluation with confusion matrix, precision, recall, ROC-AUC.
-5.Tuning the threshold and explaination of sigmoid function.
+1. Loading of a binary classification dataset.
+2 .Train/test split and standardization of features.
+3. Fitting a Logistic Regression model.
+4. Evaluation with confusion matrix, precision, recall, ROC-AUC.
+5. Tuning the threshold and explaination of sigmoid function.
 
-##Dataset 
+## Dataset 
 the dataset to be downloaded from: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
+## Author
+Naina Rathore
